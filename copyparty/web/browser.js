@@ -6311,7 +6311,7 @@ var Ls = {
 
 		"lang_set": '변경 사항을 적용하기 위해 새로고침하시겠습니까?'
 	},
-	"nld": {
+        "nld": {
 		"tt": "Nederlands",
 
 		"cols": {
@@ -8197,9 +8197,62 @@ var Ls = {
 		"ur_um": "Zakończono;\n{0} przesłań OK,\n{1} przesłań nie powiodło się",
 		"ur_sm": "Zakończono;\nznaleziono {0} pliki(ów),\nnie znaleziono {1} pliki(ów) na serwerze",
 
-		"lang_set": "odśwież stronę (F5), aby zastosować zmianę.",
-	},
-	"rus": {
+                "lang_set": "odśwież stronę (F5), aby zastosować zmianę.",
+        },
+        "nep": {
+                "tt": "नेपाली",
+
+                "cols": {
+                        "c": "कार्य बटनहरू",
+                        "dur": "अवधि",
+                        "q": "गुणस्तर / बिटरेट",
+                        "Ac": "अडियो कोडेक",
+                        "Vc": "भिडियो कोडेक",
+                        "Fmt": "ढाँचा / कन्टेनर",
+                        "Ahash": "अडियो चेकसम",
+                        "Vhash": "भिडियो चेकसम",
+                        "Res": "रिजोल्युसन",
+                        "T": "फाइल प्रकार",
+                        "aq": "अडियो गुणस्तर / बिटरेट",
+                        "vq": "भिडियो गुणस्तर / बिटरेट",
+                        "pixfmt": "सबसाम्प्लिङ / पिक्सेल संरचना",
+                        "resw": "तेर्सो रिजोल्युसन",
+                        "resh": "ठाडो रिजोल्युसन",
+                        "chs": "अडियो च्यानलहरू",
+                        "hz": "नमूना दर"
+                },
+
+                "m_ok": "ठिक छ",
+                "m_ng": "रद्द गर्नुहोस्",
+                "enable": "सक्रिय बनाउनुहोस्",
+                "danger": "जोखिम",
+                "clipped": "क्लिपबोर्डमा प्रतिलिपि गरियो",
+
+                "ht_s1": "सेकेन्ड",
+                "ht_s2": "सेकेन्डहरू",
+                "ht_m1": "मिनेट",
+                "ht_m2": "मिनेटहरू",
+                "ht_h1": "घण्टा",
+                "ht_h2": "घण्टाहरू",
+                "ht_d1": "दिन",
+                "ht_d2": "दिनहरू",
+                "ht_and": " र ",
+
+                "goh": "नियन्त्रण-प्यानल",
+                "logout": "लगआउट",
+                "access": "प्रवेश",
+                "ot_close": "उपमेनु बन्द गर्नुहोस्",
+                "ot_search": "विशेषता, मार्ग/नाम वा संगीत ट्यागद्वारा फाइल खोज्नुहोस्",
+                "ot_unpost": "अनपोस्ट: हालका अपलोडहरू मेट्नुहोस् वा अधूरा रद्द गर्नुहोस्",
+                "ot_bup": "bup: आधारभूत अपलोडर, Netscape 4.0 समेत समर्थन गर्छ",
+                "ot_mkdir": "mkdir: नयाँ डाइरेक्टरी बनाउनुहोस्",
+                "ot_md": "new-md: नयाँ मार्कडाउन कागजात बनाउनुहोस्",
+                "ot_msg": "msg: सर्भर लगमा सन्देश पठाउनुहोस्",
+                "ot_mp": "मिडिया प्लेयर विकल्पहरू",
+                "ot_cfg": "कन्फिगरेसन विकल्पहरू",
+                "ot_noie": "कृपया Chrome / Firefox / Edge प्रयोग गर्नुहोस्",
+        },
+        "rus": {
 		"tt": "Русский",
 
 		"cols": {
@@ -10720,7 +10773,7 @@ var Ls = {
 	},
 };
 
-var LANGS = ["eng", "nor", "nno", "chi", "cze", "deu", "fin", "fra", "grc", "ita", "kor", "nld", "rus", "spa", "swe", "ukr"];
+var LANGS = ["eng", "nor", "nno", "chi", "cze", "deu", "fin", "fra", "grc", "ita", "kor", "nld", "nep", "rus", "spa", "swe", "ukr"];
 
 if (window.langmod)
 	langmod();

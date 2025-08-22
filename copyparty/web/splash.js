@@ -430,7 +430,7 @@ var Ls = {
 		"af1": "최근 업로드 보기",
 		"ag1": "IdP 캐시 보기"
 	},
-	"nld": {
+        "nld": {
 		"a1": "Update",
 		"b1": "Hallo, hoe gaat het met jou? &nbsp; <small>(Je bent niet ingelogd)</small>",
 		"c1": "Uitloggen",
@@ -475,9 +475,30 @@ var Ls = {
 		"ad1": "Nr. 304 stopt al het cachegebruik. Als k304 niet voldoende was, probeer dan deze. Vermenigvuldigt het dataverbruik.!",
 		"ae1": "Uitgaand:",
 		"af1": "Recent geüploade bestanden weergeven",
-		"ag1": "Bekende IdP-gebruikers weergeven",
-	},
-	"nno": {
+                "ag1": "Bekende IdP-gebruikers weergeven",
+        },
+        "nep": {
+                "a1": "रिफ्रेस",
+                "b1": "नमस्ते &nbsp; <small>(तपाईं लगइन हुनुहुन्न)</small>",
+                "c1": "लगआउट",
+                "d1": "स्ट्याक डम्प",
+                "d2": "सबै सक्रिय थ्रेडहरूको अवस्था देखाउँछ",
+                "e1": "cfg पुनः लोड",
+                "f1": "तपाईं हेर्न सक्नुहुन्छ:",
+                "g1": "तपाईं अपलोड गर्न सक्नुहुन्छ:",
+                "cc1": "अन्य कुरा:",
+                "h1": "k304 अक्षम गर्नुहोस्",
+                "i1": "k304 सक्षम गर्नुहोस्",
+                "k1": "क्लाइण्ट सेटिङ रिसेट",
+                "l1": "थपका लागि लगइन:",
+                "m1": "फेरि स्वागत छ,",
+                "n1": "404: फाइल फेला परेन &nbsp;┐( ´ -`)┌",
+                "o1": "वा तपाईंलाई पहुँच छैन? पासवर्ड प्रयास गर्नुहोस् वा <a href=\"' + SR + '/?h\">गृह जानुहोस्</a>",
+                "p1": "403: अनुमति छैन &nbsp;~┻━┻",
+                "q1": "पासवर्ड प्रयास गर्नुहोस् वा <a href=\"' + SR + '/?h\">गृह जानुहोस्</a>",
+                "r1": "गृह जानुहोस्",
+        },
+        "nno": {
 		"a1": "oppdatér",
 		"b1": "heisann &nbsp; <small>(du er ikkje logga inn)</small>",
 		"c1": "logg ut",
